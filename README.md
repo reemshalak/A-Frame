@@ -1,5 +1,7 @@
 # A-Frame Project
 
+![alt text](https://github.com/reemshalak/A-Frame/blob/5af9e6ede7dd52ffaef2a14aa9829e2273c2a2bd/coverimage?raw=true)
+
 **[Subscribe to the A-Frame newsletter!](https://aframe.io/subscribe/)**
 
 **[Sponsor us to help support A-Frame development and its community](https://github.com/sponsors/dmarcos)**
